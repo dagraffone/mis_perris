@@ -1,0 +1,18 @@
+
+
+#blog img{
+    width: 250px;
+    height: 250px;
+    border: 3px solid tomato;
+    border-radius: 15px;
+}
+
+#blog .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#blog article{
+    margin: 15px;
+}

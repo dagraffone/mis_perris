@@ -1,0 +1,30 @@
+
+
+#banner img{
+    width: 100%;
+}
+
+#banner .contenedor{
+    position:absolute;
+    top: 25%;
+    left: 15%;
+    color: blueviolet;
+    font-family: cursive;
+}
+
+#banner .contenedor h2{
+    font-size: 29px;
+}
+
+#banner a{
+    display: block;
+    border: 3px solid tomato;
+    text-decoration: none;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 7px;
+    
+}
+#banner a{
+    
+}
